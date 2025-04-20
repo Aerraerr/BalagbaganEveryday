@@ -1,4 +1,4 @@
 <?php 
 
-echo "Hello Worlddd!"
-echo "This is for Balagabagan session everyday."
+echo "Hello Worlddd! <br>";
+echo "This is for Balagabagan session everyday.";
