@@ -8,8 +8,8 @@
 **Day 1:** Hello World  ✅                                        
 **Day 2:** Variables and Data Types  ✅                                         
 **Day 3:** User Input and Output  ✅                                        
-**Day 4:** Arithmetic Operations  ✅
-**Day 5:** String Manipulation Basics  ✅                                                            
+**Day 4:** Arithmetic Operations  ✅                                  
+**Day 5:** String Manipulation Basics  ✅                                                                                    
 **Day 6:** String Interpolation  ✅                      
 **Day 7:** Constants and Enums       
 **Day 8:** Comments and Code Structure  
