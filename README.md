@@ -11,7 +11,7 @@
 **Day 4:** Arithmetic Operations  ✅
 **Day 5:** String Manipulation Basics  ✅ 
 **Day 6:** String Interpolation  ✅
-**Day 7:** Constants and Enums  
+**Day 7:** Constants and Enums    
 **Day 8:** Comments and Code Structure  
 **Day 9:** Type Casting and Conversion  
 **Day 10:** Simple Calculator
