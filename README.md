@@ -3,7 +3,7 @@
 
 ---
 
-#### 🔰 **Beginner Level (Days 1–50)**
+#### 🔰 **Beginner Level (Days 1–50)** 
  
 **Day 1:** Hello World  ✅                                         
 **Day 2:** Variables and Data Types  ✅                                          
