@@ -14,7 +14,7 @@
 **Day 7:** Constants and Enums       
 **Day 8:** Comments and Code Structure  
 **Day 9:** Type Casting and Conversion      
-**Day 10:** Simple Calculator
+**Day 10:** Simple Calculator 
 
 **Day 11:** Conditional Statements (if/else)  
 **Day 12:** Nested if/else  
